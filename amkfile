@@ -1,0 +1,11 @@
+# amk version 1.0.0.0.0.0.0
+# amkfile
+
+@build
+gcc -o amk main.c
+
+@install
+cp ./amk /usr/bin/amk
+
+@clean
+rm ./amk
