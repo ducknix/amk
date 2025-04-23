@@ -74,9 +74,9 @@ Bu kadar
 - [ ] her an her şey bilmiyorum
 
 ### Asla Yapılmayacaklar
-- [ ]renkli çıktılar (isteyen kendine yapsın)
-- [ ]kütüphaneleri bulma ya da paket yöneticisi entegrasyonu (neden!)
-- [ ]Windows destekli .bat fallback (saldım çayıra)
+- [ ] renkli çıktılar (isteyen kendine yapsın)
+- [ ] kütüphaneleri bulma ya da paket yöneticisi entegrasyonu (neden!)
+- [ ] Windows destekli .bat fallback (saldım çayıra)
 
 ## UYARI
 AMK tehlikelidir.
