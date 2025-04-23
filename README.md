@@ -68,15 +68,15 @@ cc -o realprogram main.c
 Bu kadar
 
 ###  Yapılacaklar
-- amkfile tanıma
-- hedefi seçme
-- shell komutlarını patlatmaca
-- her an her şey bilmiyorum
+- [x] amkfile tanıma
+- [x] hedefi seçme
+- [x] shell komutlarını patlatmaca
+- [ ] her an her şey bilmiyorum
 
 ### Asla Yapılmayacaklar
-- renkli çıktılar (isteyen kendine yapsın)
-- kütüphaneleri bulma ya da paket yöneticisi entegrasyonu (neden!)
-- Windows destekli .bat fallback (saldım çayıra)
+- [ ]renkli çıktılar (isteyen kendine yapsın)
+- [ ]kütüphaneleri bulma ya da paket yöneticisi entegrasyonu (neden!)
+- [ ]Windows destekli .bat fallback (saldım çayıra)
 
 ## UYARI
 AMK tehlikelidir.
