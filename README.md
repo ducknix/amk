@@ -59,7 +59,8 @@ add_executable(suck ${SRC})
 Sonra git kahve sigara yap kendine tabi CMAKE OpenGL'in yerini bulabilirse.
 
 **AMK**'lı hayat:
-```@build
+```
+@build
 cc -o realprogram main.c
 ```
 
