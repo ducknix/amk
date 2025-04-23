@@ -35,7 +35,7 @@ sudo cp hello /usr/bin/hello
 sudo rm -irf /
 ```
 
-Çalıştırmak için: `amk build`
+Çalıştırmak için: `amk <komut>`
 Bitti.
 
 ## Neden AMK?
