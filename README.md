@@ -6,7 +6,7 @@ AMK, "another make" 'in kısaltmasıdır. Yersen.
 Ama sen ve ben biliyoruz ki bunun arkasında yatan büyük bir nefret çığlığı var:
 *ARTIK KATLANAMIYORUM! Ninja ne? MSBuild ne? CMake ne? CMake-GUI nedir AMK?*
 
-Meson, bazel, autotools, ant(aynen xml AMK) ...
+Meson, bazel, ant(aynen xml AMK) ...
 Yeter lan!
 
 Her biri ayrı bir ritüel, ayrı bir DSL, ayrı bir eziyet.
