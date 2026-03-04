@@ -1,16 +1,17 @@
 # AMK - Another Make amk
 
 ## Nedir bu AMK?
-AMK, "another make" 'in kısaltmasıdır. Yersen.
+AMK, "another make" 'in kısaltmasıdır. 
+Yersen.
 
-Ama sen ve ben biliyoruz ki bunun arkasında yatan büyük bir nefret çığlığı var:
+Ama sen ve ben biliyoruz ki bunun arkasında yatan büyük bir nefret var:
 *ARTIK KATLANAMIYORUM! Ninja ne? MSBuild ne? CMake ne? CMake-GUI nedir AMK?*
 
 Meson, bazel, ant(aynen xml AMK) ...
 Yeter lan!
 
 Her biri ayrı bir ritüel, ayrı bir DSL, ayrı bir eziyet.
-Programdan çok build sistem yazıyoruz AMK
+Programdan çok build sistem yazıyoruz AMK godoş musunuz?
 
 **AMK**, ekstra minimal delikanlı ve hafiftir.
 Sadece `@komut` ve altında yazan shell kodları bu kadar
@@ -21,7 +22,7 @@ Ne de şuraya options yazmazsam build fail alır falan filan
 
 ## KURULUM
 `gcc -o amk main.c`
-Bitti ulan bitti. Hayatta bu kadar basit olmalıydı işte.
+Bitti ulan bitti.
 
 ## Kullanım
 ```
@@ -41,13 +42,13 @@ Bitti.
 ## Neden AMK?
 Çünkü diğer sistemlerin ta AMK.
 Gerekisiz soyutlama hastalığına tutulmuşlar. Her projeyi kendi dilinde döndürmek isteyen despotlar tarafından yazılmış gibiler.
-Biz, sade adamlarız ya da hanımlar.
-Biz, kodumun kodunu bilen kişileriz.
-Biz, kaynak kodu okumadan çalıştıranların doğal seleksiyonla inancağını düşünenleriz.
+Biz, sade adamlarız ya da gacılar
+Biz, kodumun kodunu biliriz aslında bilmeliyiz
+Biz, kaynak kodu okumadan çalıştıranların doğal seleksiyonla inancağını düşünenleriz. (oPınSors ganga firüs olmas) 
 
 Örnek:
 ```
-cmake_minimum_required(VERSION 3322321.23133843.43242374235423)
+cmake_minimum_required(VERSION 3322321.23133843.43242374235424)
 project(suck)
 ... milyon tane daha cmake keywordleri ...
 add_executable(suck ${SRC})
@@ -74,17 +75,15 @@ Bu kadar
 - [ ] her an her şey bilmiyorum
 
 ### Asla Yapılmayacaklar
-- [ ] renkli çıktılar (isteyen kendine yapsın)
-- [ ] kütüphaneleri bulma ya da paket yöneticisi entegrasyonu (neden!)
-- [ ] Windows destekli .bat fallback (saldım çayıra)
+- [ ] renkli çıktılar (isteyen kendine yapsın, yapanın amk)
+- [ ] kütüphaneleri bulma ya da paket yöneticisi entegrasyonu (neden!, gülenin amk)
+- [ ] Windows destekli .bat fallback (saldım çayıra, çayırın amk)
 
 ## UYARI
 AMK tehlikelidir.
 Çünkü senin yerine düşünmez amk.
 
 ## KATKI
-PR kabul ederim ama 5K satır patch gönderip "bazı abstraction'lar ekledim" dersen AMK
-
-
+PR kabul ederim (ne eksik varsa sanki amk) ama 5K satır patch gönderip "bazı abstraction'lar ekledim" dersen AMK
 ruhunu dsllere ya da salak saçma formatlara satma. ya da sat banane amk
 
